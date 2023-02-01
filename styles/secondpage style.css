@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Quantico', sans-serif;
+    
+    font-size: 35px;
+    text-align: left;
+    color: rgb(30, 49, 77);
+}
+
+img {
+    border: 3px rgb(49, 60, 73) solid;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+video {
+    width: 189px;
+    
+    border: 3px rgb(129, 140, 153) solid;
+    margin: 0 auto;
+    padding: 3px 3px 3px 3px;
+}
+
+h3 {
+    font-family: 'Quantico', sans-serif;
+    
+    font-size: 15px;
+    text-align: left;
+    color: rgb(30, 49, 77);
+    
+    margin: 0 auto;
+    padding: 0;
+}
+
+#div-font {
+    font-family: 'Alumni Sans', sans-serif;
+
+    font-size: 20px;
+    color: rgb(30, 49, 77);
+    padding: 0 22px 0;
+    margin: 0;
+}
+
+#Homepage {
+    font-size: 23px;
+}
